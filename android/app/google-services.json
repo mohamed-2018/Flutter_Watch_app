@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "420256362924",
+    "firebase_url": "https://testflutter-6c22a.firebaseio.com",
+    "project_id": "testflutter-6c22a",
+    "storage_bucket": "testflutter-6c22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420256362924:android:cbdf4aaf081a13bb18ca09",
+        "android_client_info": {
+          "package_name": "com.example.cinema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420256362924-l2pt6hlgdhfquq7ooout414lqb57h3rl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cinema",
+            "certificate_hash": "71405069e8bfffa9fe11d45a0172ee571c966c3c"
+          }
+        },
+        {
+          "client_id": "420256362924-6ptpecsl1f0o0nur1rqqk6ldj8617jg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCObijCiGWC-MP9iiOUYBZMNPkqjw7lccY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420256362924-6ptpecsl1f0o0nur1rqqk6ldj8617jg7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
